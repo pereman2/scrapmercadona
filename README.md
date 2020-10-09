@@ -1,3 +1,3 @@
 # scrapmercadona
 
-Web scrapping with Beautiful soup to populate of ShopMate's database.
+Web scrapping with Beautiful soup to populate ShopMate's database.
